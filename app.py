@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-import pubchempy as pcp
+import pubchempylocal as pcp
 from rdkit import Chem
 from rdkit.Chem import Draw
 from time import sleep
