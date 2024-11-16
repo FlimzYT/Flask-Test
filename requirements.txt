@@ -1,3 +1,2 @@
 flask==3.1.0
-PubChemPy==1.0.3
 rdkit==2024.3.6
